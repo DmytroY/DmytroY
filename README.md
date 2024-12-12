@@ -9,7 +9,7 @@
 ### Hi there 👋
 
 I’m Dmytro, a AI and Date cloud engineer with wide range of hobby programming: WEB, IoT, Android app, embeded programming. I have always been attracted to creating new things that serve humans and I believe that AI is the most beautifull and powerful tool for this.
-
+<!---
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/DmytroY/EPAM_Flask">
@@ -26,7 +26,7 @@ I’m Dmytro, a AI and Date cloud engineer with wide range of hobby programming:
 </a>
 
 <br>
-<!---
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
