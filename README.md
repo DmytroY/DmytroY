@@ -1,5 +1,4 @@
-[![Dmytro's GitHub Banner](./assets/Hi.jpg)]
-
+[![Dmytro's GitHub Banner](assets/Hi.jpg)]
 
 ![Years Badge](https://badges.pufler.dev/years/pujux)
 ![Gists Badge](https://badges.pufler.dev/gists/pujux)
