@@ -2,7 +2,7 @@
 
 ![Years Badge](https://badges.pufler.dev/years/pujux)
 ![Gists Badge](https://badges.pufler.dev/gists/pujux)
-![Visits Badge](https://badges.pufler.dev/visits/DmytroY/dmytroy&cache-control=no-cache)
+![Visits Badge](https://badges.pufler.dev/visits/DmytroY/dmytroy)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmytro-yakovenko/)
 
 ### Hi there 👋
