@@ -5,7 +5,6 @@
 ![Visits Badge](https://badges.pufler.dev/visits/DmytroY/dmytroy)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmytro-yakovenko/)
 
-
 ### Hi there 👋
 
 I’m Dmytro, a AI and Date cloud engineer with wide range of hobby programming: WEB, IoT, Android app, embeded programming. I have always been attracted to creating new things that serve humans and I believe that AI is the most beautifull and powerful tool for this.
