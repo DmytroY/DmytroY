@@ -21,7 +21,7 @@ I’m Dmytro, a AI and Date cloud engineer with wide range of hobby programming:
 <a href="https://github.com/DmytroY/NotaBene">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DmytroY&repo=NotaBene&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="[https://github.com/DmytroY/NotaBene](https://github.com/DmytroY/chatGPT-API)">
+<a href="https://github.com/DmytroY/chatGPT-API">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DmytroY&repo=chatGPT-API&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
