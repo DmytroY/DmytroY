@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I’m Dmytro, an electronic engineer with wide range of hobby programming: Embedded, IoT, AI, Azure cloud, WEB, Android app. I have always been attracted to creating new things that serve humans and I believe that AI is the most beautifull and powerful tool for this.
+I’m Dmytro, an electronic engineer with a wide range of hobby programming: Embedded, IoT, AI, Azure cloud, WEB, Android app. I have always been attracted to creating new things that serve humans and I believe that AI is the most beautiful and powerful tool for this.
 
 <!---
 ## 📌 Pinned Repositories
