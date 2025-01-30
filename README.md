@@ -44,7 +44,7 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 -->
 
 ## 💼 Skills
-
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4584b6)
 ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=Azure&logoColor=white&color=008ad7)
 
@@ -54,7 +54,6 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0db4f)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f89820)
 
@@ -87,7 +86,8 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0db7ed)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4078c0)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=fca326)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0146b3)
+
+<!-- ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0146b3) -->
 
 
 </details>
