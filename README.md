@@ -68,6 +68,7 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
 
 <br>
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0db4f)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f89820)
 
