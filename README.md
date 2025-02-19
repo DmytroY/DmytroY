@@ -45,6 +45,7 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=044F88)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=#00599C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4584b6)
 ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=Azure&logoColor=white&color=008ad7)
 
