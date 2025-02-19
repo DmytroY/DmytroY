@@ -55,9 +55,6 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0db4f)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f89820)
-
 ![](https://img.shields.io/badge/DB-postgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=0064a5)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00758f)
 
@@ -71,6 +68,8 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
 
 <br>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0db4f)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f89820)
 
 ![](https://img.shields.io/badge/Style&Markup-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=f06529)
 ![](https://img.shields.io/badge/Style&Markup-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4)
