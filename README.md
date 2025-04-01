@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I’m Dmytro, an electronic engineer with a wide range of hobby programming: Embedded, IoT, AI, Azure cloud, WEB, Android app. I have always been attracted to creating new things that serve humans and I believe that AI is the most beautiful and powerful tool for this.
+I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure cloud, Embedded, IoT, AI, Android app. I have always been attracted to creating new things that serve humans and I believe that Big Data and AI is the most powerful tool for this.
 
 <!---
 ## 📌 Pinned Repositories
@@ -44,16 +44,22 @@ I’m Dmytro, an electronic engineer with a wide range of hobby programming: Emb
 -->
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=044F88)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=#00599C)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4584b6)
+![](https://img.shields.io/badge/DB-SQL-blue)
 ![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=Azure&logoColor=white&color=008ad7)
+
+
+
 
 
 
 <details>
 <summary>More Skills</summary>
 <br>
+
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=044F88)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=#00599C)
 
 ![](https://img.shields.io/badge/DB-postgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=0064a5)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00758f)
