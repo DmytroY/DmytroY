@@ -2,9 +2,8 @@
 
 ![Years Badge](https://badges.pufler.dev/years/pujux)
 ![Gists Badge](https://badges.pufler.dev/gists/pujux)
-<!---![Visits Badge](https://badges.pufler.dev/visits/DmytroY/dmytroy)-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmytro-yakovenko/)
-
+<!---![Visits Badge](https://badges.pufler.dev/visits/DmytroY/dmytroy)-->
 ### Hi there 👋
 
 I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure cloud, Embedded, IoT, AI, Android app. I have always been attracted to creating new things that serve humans and I believe that Big Data and AI is the most powerful tool for this.
