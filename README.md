@@ -105,7 +105,7 @@ I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure clo
 
 ## Metrics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DmytroY&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=DmytroY&theme=vue-dark&hide_border=true&cache_seconds=86400)
 
 <!--
 - 🔭 I’m currently working on ...
