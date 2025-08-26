@@ -1,9 +1,11 @@
 ![Dmytro's GitHub Banner](assets/Hi.JPG)
 
-![Years Badge](https://badges.pufler.dev/years/pujux)
-![Gists Badge](https://badges.pufler.dev/gists/pujux)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmytro-yakovenko/)
-<!---![Visits Badge](https://badges.pufler.dev/visits/DmytroY/dmytroy)-->
+<!-- ![Years on GitHub](https://github-profile-summary-for-github-io.vercel.app/api/github/profile-summary?username=dmytroy)
+
+-![Visits Badge](https://badges.pufler.dev/visits/DmytroY/dmytroy) -->
+
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmytro-yakovenko/) -->
+
 ### Hi there 👋
 
 I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure cloud, Embedded, IoT, AI, Android app. I have always been attracted to creating new things that serve humans and I believe that Big Data and AI is the most powerful tool for this.
@@ -101,15 +103,11 @@ I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure clo
 
 <br>
 
+## Metrics
 
-
-
+![dmytroy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmytroy&theme=vue-dark&hide_border=true)
 
 <!--
-**DmytroY/DmytroY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
