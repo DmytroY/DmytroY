@@ -97,16 +97,6 @@ I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure clo
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=fca326)
 
 <!-- ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0146b3) -->
-
-
-</details>
-
-<br>
-
-## Metrics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DmytroY&theme=vue-dark&hide_border=true&cache_seconds=86400)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
