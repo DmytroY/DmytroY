@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure cloud, Embedded, IoT, AI, Android app. I have always been attracted to creating new things that serve humans and I believe that Big Data and AI is the most powerful tool for this.
+I’m Dmytro, an radio engineer with a wide range of hobby programming:  Embedded, WEB, Azure cloud, IoT, AI, Android app. I have always been attracted to creating new things that serve humans and I believe that Big Data and AI is the most versatile tool for the moment.
 
 <!---
 ## 📌 Pinned Repositories
@@ -44,7 +44,7 @@ I’m Dmytro, an engineer with a wide range of hobby programming: WEB, Azure clo
 <br>
 -->
 
-## 💼 Skills
+## 💼 Core Skills
 
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=cplusplus&logoColor=#00599C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4584b6)
