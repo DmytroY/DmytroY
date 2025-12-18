@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I’m Dmytro, an radio engineer with a wide range of hobby programming:  Embedded, WEB, Azure cloud, IoT, AI, Android app. I have always been attracted to creating new things that serve humans and I believe that Big Data and AI is the most versatile tool for the moment.
+I’m Dmytro, an radio engineer with a wide range of hobby programming:  Embedded, WEB, Azure cloud, IoT, AI, Android app.
 
 <!---
 ## 📌 Pinned Repositories
