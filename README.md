@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I’m Dmytro, an radio engineer with a wide range of hobby programming:  Embedded, WEB, Azure cloud, IoT, AI, Android app.
+I’m Dmytro, an radio engineer with a wide range of hobby programming:  WEB, AI, Azure/Google Clouds, Embedded Systems, IoT.
 
 <!---
 ## 📌 Pinned Repositories
